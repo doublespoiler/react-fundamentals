@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T21:24:04.993Z" agent="5.0 (Windows)" version="20.5.3" etag="FQnPtVCGbXmgUUg3PaUO" type="github"><diagram id="5HRne_9xuw8qjNourPSF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-12T21:27:27.101Z" agent="5.0 (Windows)" etag="SMMt1LymOcbSnX8MtwFp" version="20.5.3" type="github">
+  <diagram id="5HRne_9xuw8qjNourPSF" name="Page-1">
+    <mxGraphModel dx="460" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MkiP5Tu9KUWeETYUj8Bj-2" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkiP5Tu9KUWeETYUj8Bj-8" value="&lt;div&gt;Ticket List&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="MkiP5Tu9KUWeETYUj8Bj-9" value="&lt;div&gt;Ticket&lt;/div&gt;&lt;div&gt;Clicking on a ticket will show a ticket&#39;s ticket detail&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MkiP5Tu9KUWeETYUj8Bj-8">
+          <mxGeometry x="10" y="40" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkiP5Tu9KUWeETYUj8Bj-10" value="&lt;div&gt;Ticket&lt;/div&gt;&lt;div&gt;Clicking on a ticket will show a ticket&#39;s ticket detail&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MkiP5Tu9KUWeETYUj8Bj-8">
+          <mxGeometry x="10" y="110" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkiP5Tu9KUWeETYUj8Bj-11" value="&lt;div&gt;Ticket&lt;/div&gt;&lt;div&gt;Clicking on a ticket will show a ticket&#39;s ticket detail&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MkiP5Tu9KUWeETYUj8Bj-8">
+          <mxGeometry x="10" y="180" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkiP5Tu9KUWeETYUj8Bj-12" value="&lt;div&gt;Add Ticket&lt;/div&gt;&lt;div&gt;clicking this button will show a form for submitting a ticket&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="420" width="360" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
